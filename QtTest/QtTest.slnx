@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="QtTest/QtTest.vcxproj" />
+  <Project Path="QtTest/QtTest.vcxproj" Id="f507d170-76e4-4d90-941a-db252a661621" />
 </Solution>
